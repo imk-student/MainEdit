@@ -5,6 +5,7 @@ import {io} from 'socket.io-client'
 import {Socket} from 'socket.io-client'
 import {DefaultEventsMap} from "@socket.io/component-emitter"
 import { useParams } from 'react-router-dom';
+import './css/123.css'
 
    
 const SAVE_INTERVAL_MS = 2000

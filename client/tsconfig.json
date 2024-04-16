@@ -28,7 +28,7 @@
   },
   "include": [
     "src",
-    "declaration.d.ts"
+    "./declaration.d.ts"
   ],
   "types": [
     "webpack-env"
